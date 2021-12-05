@@ -26,7 +26,7 @@ unsigned char* above_head;
 
 int steps_count = 0;
 
-#define DEBUG 1
+#define DEBUG 0
 
 #if DEBUG >= 1
 #include <stdio.h>

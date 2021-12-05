@@ -1,1 +1,5 @@
+*.o
+a.out
+play
+play_E
 .DS_Store
